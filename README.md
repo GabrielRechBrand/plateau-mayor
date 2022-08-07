@@ -1,8 +1,11 @@
 <center>Mayor</center>
+
 ======================
 
 <center>An assistant for the Plateau project.</center>
+
 ----------------------
+
 ----------------------
 
 ## Commands
