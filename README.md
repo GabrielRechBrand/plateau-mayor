@@ -1,12 +1,6 @@
-<center>Mayor</center>
+<h1 align="center">Mayor</h1>
 
-======================
-
-<center>An assistant for the Plateau project.</center>
-
-----------------------
-
-----------------------
+### An assistant for the Plateau project.</center>
 
 ## Commands
 
