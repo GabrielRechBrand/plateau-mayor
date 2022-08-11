@@ -4,6 +4,10 @@
 
 ## Commands
 
+### Management 💼
+
+>
+
 ### Music 🎧 
 
 > **$join**| *Mayor joins your voice channel.*
